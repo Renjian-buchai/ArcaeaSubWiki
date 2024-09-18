@@ -1,4 +1,6 @@
-# Replace this with the song title
+# Template
+
+[//] # (Replace the above title with the song title)
 
 ___
 
