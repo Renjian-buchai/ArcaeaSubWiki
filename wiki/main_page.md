@@ -1,4 +1,5 @@
 ---
+redirect_from: "/"
 layout: git-wiki-main-page
 ---
 
@@ -7,8 +8,6 @@ layout: git-wiki-main-page
 Welcome to Arcaea Sub-Wiki, the even *more* community managed fandom for the titular rhythm game by lowiro!
 
 New players, we'll come up with a basic guide soon.
-
-A Github account is required to contribute. That is required by Prose.io, the software used to help with editing the wiki.
 
 If you wish to contribute, please read the Rules and the Editing Guide (that doesn't currently exist).
 
