@@ -1,7 +1,8 @@
 # Shades of Light in a Transcendent Realm
 
-<p align="center">
-  <img alt="Light" src="https://github.com/Renjian-buchai/ArcaeaSubWiki/blob/master/wiki/gallery/Shades_of_light.png" width="45%">
-&nbsp; &nbsp; &nbsp; &nbsp;
-  <img alt="Dark" src="https://github.com/Renjian-buchai/ArcaeaSubWiki/blob/master/wiki/gallery/Shades_of_Light_in_a_Transcendent_Realm_BYD.png" width="45%">
-</p>
+Default
+
+![](gallery/Shades_of_light.png) 
+
+Beyond
+![Song Jacket](gallery/Shades_of_Light_in_a_Transcendent_Realm_BYD.png "Beyond")
