@@ -15,6 +15,8 @@ ___
 | Genre | High DnB / Glitch [^1] | High DnB / Glitch |
 | Added | Version 1.0.5 (2017-Mar-08) | Version 4.3.2 (2023-Mar-09) |
 
+## Technical Information
+
 | Difficulty: | Past | Present | Future | Beyond |
 | --- | --- | --- | --- | --- |
 | Level | 3 | 6 | 8 | 9 |
@@ -22,13 +24,17 @@ ___
 | Chart Constant | 3.0 | 6.0 | 8.3 | 9.0 |
 | Charter | Nitro | Nitro | Nitro | N↑TRO |
 
-| | Unlock Requirements |
+## Unlock Requirements
+
+| | |
 | --- | --- |
 | World Mode | |
 | Past | |
 | Present | 60 Fragments |
 | Future | 200 Fragments |
 | Beyond | L-29 Shades of Light in a Transcendent Realm |
+
+## Official Sound
 
 <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/273739966&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/ak_q" title="ak+q" target="_blank" style="color: #cccccc; text-decoration: none;">ak+q</a> · <a href="https://soundcloud.com/ak_q/shades-of-light-in-a-transcendent-realm" title="Shades of Light in a Transcendent Realm" target="_blank" style="color: #cccccc; text-decoration: none;">Shades of Light in a Transcendent Realm</a></div>
 
@@ -47,5 +53,7 @@ ___
   - Some of these notes and arcs may be too high for players with wide screen ratios to view properly, similar to certain sections of the April Fools chart of Singularity VVVIP.
 
 ___
+
+## Citations
 
 [^1]: [Redirects to Soundcloud](https://soundcloud.com/ak_q/shades-of-light-in-a-transcendent-realm)
