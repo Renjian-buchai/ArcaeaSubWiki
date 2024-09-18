@@ -4,7 +4,7 @@
 
 ___
 
-| | Default |
+| | |
 | --- | --- |
 | Song Jacket | ![Jacket](Replace this with a path to your jacket. It should be located in /gallery/.) |
 | Composer |  |
