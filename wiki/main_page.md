@@ -2,7 +2,7 @@
 redirect_from: "/"
 ---
 
-# Welcome
+## Welcome
 
 Welcome to Arcaea Sub-Wiki, the even *more* community managed fandom for the titular rhythm game by lowiro!
 
