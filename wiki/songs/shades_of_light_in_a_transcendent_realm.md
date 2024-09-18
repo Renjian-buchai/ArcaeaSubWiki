@@ -4,7 +4,7 @@ ___
 
 | | Default | Beyond |
 |---|---|---|
-| Song Jacket | ![Jacket](gallery/Shades_of_light.png) | ![Jacket](gallery/Shades_of_Light_in_a_Transcendent_Realm_BYD.png) |
+| Song Jacket | ![Jacket](../gallery/Shades_of_light.png) | ![Jacket](../gallery/Shades_of_Light_in_a_Transcendent_Realm_BYD.png) |
 | Composer | ak+q | ak+q |
 | Artwork | RiceGnat | RiceGnat |
 | Vocals | | |
@@ -51,6 +51,8 @@ ___
 - This song held the record for having the most characters in a song title (39 characters) until it was beaten by `LunarOrbit -believe in the Espebranch road-` (43), `Misdeed -la bonté de Dieu et l'origine du mal-` (46), and `Hiiro Gekka, Kyoushou no Zetsu (nayuta 2017 ver.)` (49).
 - This song's BYD chart contains notes and arcs that are above the Sky Input line, similar to the Beyond chart of Party Vinyl.
   - Some of these notes and arcs may be too high for players with wide screen ratios to view properly, similar to certain sections of the April Fools chart of Singularity VVVIP.
+- The font used in the jacket is 'Edwardian Script Alt'.
+  - This font is also used in Silent Rush.
 
 ___
 

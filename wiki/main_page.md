@@ -2,6 +2,7 @@
 
 redirect_from: "/"
 title: Arcaea Sub-Wiki
+
 layout: git-wiki-main-page
 
 ---
