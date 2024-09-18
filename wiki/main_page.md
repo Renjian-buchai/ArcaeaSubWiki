@@ -1,10 +1,9 @@
 ---
 redirect_from: "/"
+layout: git-wiki-main-page
 ---
 
-#
-
-## Welcome
+# Welcome
 
 Welcome to Arcaea Sub-Wiki, the even *more* community managed fandom for the titular rhythm game by lowiro!
 
