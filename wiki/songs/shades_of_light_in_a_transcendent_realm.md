@@ -29,7 +29,7 @@ ___
 
 | | |
 | --- | --- |
-| Pack | |
+| Pack | Arcaea |
 | World Mode | |
 | Past | |
 | Present | 60 Fragments |
