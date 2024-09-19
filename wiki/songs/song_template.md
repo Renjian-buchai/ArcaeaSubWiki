@@ -17,19 +17,21 @@ ___
 | Genre |  |
 | Added |  |
 
-## Technical Information
+## Chart Information
 
 | Difficulty: | Past | Present | Future |
 | --- | --- | --- | --- |
-| Level | 3 | 6 | 8 |
-| Notes | 517 | 789 | 1067 |
-| Chart Constant | 3.0 | 6.0 | 8.3 |
-| Charter | Nitro | Nitro | Nitro |
+| Level |  |  |  |
+| Notes |  |  |  |
+| Chart Constant |  |  |  |
+| Charter |  |  |  |
+| [Unit Score](../game/scoring.md#unit-score) |  |  |  |
 
 ## Unlock Requirements
 
 | | |
 | --- | --- |
+| Pack | |
 | World Mode | |
 | Past | |
 | Present |  |

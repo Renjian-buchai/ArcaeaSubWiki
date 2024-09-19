@@ -15,7 +15,7 @@ ___
 | Genre | High DnB / Glitch [^1] | High DnB / Glitch |
 | Added | Version 1.0.5 (2017-Mar-08) | Version 4.3.2 (2023-Mar-09) |
 
-## Technical Information
+## Chart Information
 
 | Difficulty: | Past | Present | Future | Beyond |
 | --- | --- | --- | --- | --- |
@@ -23,11 +23,13 @@ ___
 | Notes | 517 | 789 | 1067 | 1042 |
 | Chart Constant | 3.0 | 6.0 | 8.3 | 9.0 |
 | Charter | Nitro | Nitro | Nitro | N↑TRO |
+| [Unit Score](../game/scoring.md#unit-score) | 9,671.1 | 6,337.1 | | |
 
 ## Unlock Requirements
 
 | | |
 | --- | --- |
+| Pack | |
 | World Mode | |
 | Past | |
 | Present | 60 Fragments |
