@@ -47,7 +47,7 @@ ___
 
 - cry of viyella was made for the Shooter's Festival 2015 K-Shoot MANIA contest.[^2]<sup>,</sup>[^3] With a score of 9505, it placed 8th overall.
   - This is currently the only song originally made for a K-Shoot Mania contest.
-  - It was made as a remake of Laur's older song "Lonely Girl".[2]
+  - It was made as a remake of Laur's older song "Lonely Girl".[^2]
 - The song's jacket art was changed in v2.2.0.
   - Prior to this, the song's jacket art was produced by Ya-k.
 
@@ -57,3 +57,8 @@ ___
 ___
 
 ## Citations
+
+[^1]: [Redirects to Soundcloud](https://soundcloud.com/laur_10/laur-cry-of-viyella-sf-2015)
+[^2]: [Redirects to laur1200.com](http://laur1200.com/cry-of-viyella/)
+[^3]: [Redirects to ksmeve.wixsite.com](https://ksmeve.wixsite.com/shooters-festival/sf2015songresult)
+

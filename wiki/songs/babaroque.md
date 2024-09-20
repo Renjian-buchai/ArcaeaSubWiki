@@ -4,7 +4,7 @@ ___
 
 | | |
 | --- | --- |
-| Song Jacket | ![Jacket](../gallery/babaroque.png) |
+| Song Jacket | ![Jacket](../gallery/Babaroque.png) |
 | Composer | cYsmix |
 | Artwork | Eric Dagley[^1] (not credited) |
 | Vocals | |
